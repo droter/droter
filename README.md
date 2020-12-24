@@ -1,4 +1,6 @@
-### Hi there 👋
+### Farming Robots 
+
+![Farming Robots](https://raw.githubusercontent.com/droter/droter/main/teamwork.gif)
 
 <!--
 **droter/droter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
