@@ -1,5 +1,7 @@
 ### Farming Robots 
 
+![Map Making](https://raw.githubusercontent.com/droter/droter/main/map.png)
+
 ![Farming Robots](https://raw.githubusercontent.com/droter/droter/main/teamwork.gif)
 
 <!--
