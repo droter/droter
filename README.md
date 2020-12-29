@@ -1,5 +1,7 @@
 ### Farming Robots 
 
+![ROS2 Future](https://raw.githubusercontent.com/droter/droter/main/ros2_future.png)
+
 ![Map Making](https://raw.githubusercontent.com/droter/droter/main/map.png)
 
 ![Farming Robots](https://raw.githubusercontent.com/droter/droter/main/teamwork.gif)
