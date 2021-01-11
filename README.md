@@ -1,4 +1,5 @@
 ### Farming Robots 
+![Orchard](https://raw.githubusercontent.com/droter/droter/main/new_barn.png)
 
 ![ROS2 Future](https://raw.githubusercontent.com/droter/droter/main/ros2_future.png)
 
