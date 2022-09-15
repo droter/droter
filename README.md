@@ -1,4 +1,6 @@
 
+[![JDroter's github stats](https://github-readme-stats.vercel.app/api?username=droter)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Organic](https://raw.githubusercontent.com/droter/droter/main/turtle_orchard.gif)
 
 ![Map Making](https://raw.githubusercontent.com/droter/droter/main/map.png)
