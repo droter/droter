@@ -1,5 +1,5 @@
 
-[![JDroter's github stats](https://github-readme-stats.vercel.app/api?username=droter)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Organic](https://raw.githubusercontent.com/droter/droter/main/turtle_orchard.gif)
 
@@ -9,6 +9,8 @@
 
 <!--
 **droter/droter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Droter's github stats](https://github-readme-stats.vercel.app/api?username=droter)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
